@@ -1,22 +1,36 @@
-👋 Hey there, welcome to my GitHub!
+The Financial Performance Dashboard is an interactive Power BI solution designed to analyze and monitor key financial metrics. It helps businesses track revenue, expenses, and profitability, while enabling data-driven decision-making. The purpose is to provide stakeholders with a clear, visual, and actionable view of financial health.
 
-I’m Yassir Arafath, passionate about turning raw data into meaningful insights through interactive dashboards and visual storytelling.
-This repo features my Financial Performance Dashboard, a project where I combined Power BI, Tableau, and Excel to analyze financial data and provide clear, actionable business insights.
+🛠️ Tech Stack
 
-.🚀Project I'm Buildinng or contributing to
- 
-.💡Things I've Learned while juggling work, deadlines and debugging
+Power BI – Data modeling, visualization, and dashboard development
 
-.🌱Bits of inspiration for anyone trying to survive and thrive in the coeporate jungle
+Excel – Data cleaning, preparation, and preprocessing
 
+Kaggle Dataset – Source of financial data for analysis
 
-Let's connect, Learn, and Grow together, One repo a time.
-You bring the snackas, I'll bring the Code.
+📂 Data Source
 
+The dataset used in this dashboard was obtained from Kaggle, providing real-world financial data for performance analysis.
 
+🌟 Features / Highlights
+🔎 Business Problem
 
-🌐 Let’s Connect:
+Organizations often struggle with fragmented financial reporting, making it difficult to identify profitability trends, cost drivers, and overall business performance.
 
-📩 LinkedIn: www.linkedin.com/in/yassirarafath 
+📊 Key Visuals & Uses
 
-📧 Mail: Yassirarafath85@gmail.com 
+Revenue & Expense Trends → Identify growth patterns and cost fluctuations over time
+
+Profitability Metrics → Monitor gross profit, net profit, and operating margins
+
+Category/Department Breakdown → Drill down into specific expense categories or revenue streams
+
+Interactive Filters → Analyze performance by time period, region, or department
+
+💡 Business Impact & Insights
+
+Improved visibility into financial health through dynamic KPIs
+
+Faster and more accurate decision-making with real-time insights
+
+Identification of high-cost areas and underperforming business units
