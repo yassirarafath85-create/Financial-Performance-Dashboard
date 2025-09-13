@@ -34,3 +34,4 @@ Improved visibility into financial health through dynamic KPIs
 Faster and more accurate decision-making with real-time insights
 
 Identification of high-cost areas and underperforming business units
+Screeenshot: https://github.com/yassirarafath85-create/Financial-Performance-Dashboard/blob/main/Interactive%20Financial%20Dashboard.png 
